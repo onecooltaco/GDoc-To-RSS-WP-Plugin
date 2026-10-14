@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * @link       https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * @since      2.0.0
  *
  * @package    Gdoc2rss

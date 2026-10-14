@@ -19,7 +19,7 @@
  * For more information, see the following discussion:
  * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
  *
- * @link       https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * @link       https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * @since      2.0.0
  *
  * @package    Gdoc2rss

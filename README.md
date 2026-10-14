@@ -53,4 +53,4 @@ The WordPress.org-style [`readme.txt`](readme.txt) contains release metadata. Ke
 
 ## License
 
-GPL-2.0-or-later.
+GPL-2.0-or-later. See [`LICENSE`](LICENSE).

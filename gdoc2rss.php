@@ -8,23 +8,23 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * @link              https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * @since             0.5.0
  * @package           Gdoc2rss
  *
  * @wordpress-plugin
  * Plugin Name:       Google Doc to RSS
- * Plugin URI:        https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * Plugin URI:        https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * Description:       Create a simple RSS feed from lines in a Google Doc.
  * Version:           2.0.0
  * Author:            Jeremy Leggat
- * Author URI:        https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * Author URI:        https://github.com/onecooltaco
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       gdoc2rss
  * Domain Path:       /languages
  *
- * GitHub Plugin URI: https://github.com/cronkiteschool/GDoc_To_RSS
+ * GitHub Plugin URI: https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * Primary Branch: main
  */
 

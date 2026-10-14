@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * @link       https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * @since      2.0.0
  *
  * @package    Gdoc2rss

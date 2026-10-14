@@ -5,7 +5,7 @@
  *
  * RSS2 Feed Template for displaying text lines as RSS2 feed.
  *
- * @link       https://asudev.jira.com/jira/software/c/projects/CSIT/pages
+ * @link       https://github.com/onecooltaco/GDoc-To-RSS-WP-Plugin
  * @since      2.0.0
  *
  * @package    Gdoc2rss
